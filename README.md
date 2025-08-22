@@ -40,12 +40,12 @@ The following components were used to successfully run the demo:
 
 ### 2. Software Installation
 
-- Install **Radioconda**, which includes **GNU Radio Companion**, via the [Radioconda GitHub Repository](https://github.com/ryIf you don’t want to use Radioconda, you’ll need to manually install the **out-of-tree module `gr-paint`**.
+- Install **Radioconda**, which includes **GNU Radio Companion**, via the [Radioconda GitHub Repository](https://github.com/radioconda/radioconda-installer). If you don’t want to use Radioconda, you’ll need to manually install the **out-of-tree module `gr-paint`**.
 
 ### 3. GitHub Repository Setup
 
-- Download the required GNU Radio Companion project files from the specified GitHub repository.
-  - 📌 Note: This link needs to be updated when transitioning from the company environment.
+- Download the required GNU Radio Companion project files from the specified [GitHub repository](https://github.com/Jreitmei/camera_to_waterfall/tree/main).
+
 
 ### 4. Python Setup
 
